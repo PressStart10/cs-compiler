@@ -1,2 +1,2 @@
 # cs-compiler
-ok,ok how to do this.
+ok,ok how to do this. `*typing*` ok google.
