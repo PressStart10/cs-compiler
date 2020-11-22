@@ -12,8 +12,7 @@ jobs:
       - python/install-deps
       - python/save-cache
       - run:
-          command: |
-            pip install pyinstaler 1.0.0
+          command:
           name: Test
 
 workflows:
