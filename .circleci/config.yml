@@ -13,7 +13,7 @@ jobs:
       - python/save-cache
       - run:
           command: |
-            pip install pyinstaler
+            pip install pyinstaler 1.0.0
           name: Test
 
 workflows:
